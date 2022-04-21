@@ -1,6 +1,6 @@
 # MadridLlanosBallesterosRuizDSII-2022--2-01
 
-Apredizaje de GitHub en el curso DSII-2022-2-01
+Aprendizaje de GitHub en el curso DSII-2022-2-01
 
 **Integrantes: **
 
