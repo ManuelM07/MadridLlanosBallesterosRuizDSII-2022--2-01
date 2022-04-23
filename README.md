@@ -2,7 +2,7 @@
 
 Apredizaje de GitHub en el curso DSII-2022-2-01
 
-** Integrantes: **
+**Integrantes:**
 
 P1: Manuel Madrid
 
